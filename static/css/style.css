@@ -1,0 +1,28 @@
+h1 {
+    color: rgba(0, 50, 22, 0.835);
+    text-align: center;
+    font-size: 10rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
+
+h2 {
+    color: rgba(0, 50, 22, 0.835);
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+}
+
+p {
+    color: rgba(0, 50, 22, 0.835);
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+}
+
+.icancenteradiv {
+    margin: auto;
+    width: 50%;
+}
